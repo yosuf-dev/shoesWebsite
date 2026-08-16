@@ -1,0 +1,150 @@
+/* ============================================
+   کفشینو — فونت‌های محلی دانا و مربع
+   منبع: فایل‌های موجود در پوشه پروژه
+   ============================================ */
+
+/* ---------- دانا (Dana) ---------- */
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 100;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Thin.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-DemiBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Dana';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Black.woff2') format('woff2');
+}
+
+/* ---------- دانا — نسخه اعداد فارسی ---------- */
+@font-face {
+  font-family: 'DanaFaNum';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'DanaFaNum';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'DanaFaNum';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-DemiBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'DanaFaNum';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'DanaFaNum';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../assets/fonts/dana/Dana-ExtraBold.woff2') format('woff2');
+}
+
+/* ---------- مربع (Morabba) ---------- */
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 300;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-Light.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-Regular.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 500;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-Medium.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 600;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-SemiBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 700;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-Bold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 800;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-ExtraBold.woff2') format('woff2');
+}
+@font-face {
+  font-family: 'Morabba';
+  font-style: normal;
+  font-weight: 900;
+  font-display: swap;
+  src: url('../assets/fonts/morabba/Morabba-Black.woff2') format('woff2');
+}
