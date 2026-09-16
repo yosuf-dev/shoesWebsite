@@ -3,18 +3,24 @@ import react from '@vitejs/plugin-react';
 import path from 'path';
 
 export default defineConfig({
+  base: '/shoesWebsite/',
+
   plugins: [react()],
+
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),
     },
   },
+
   server: {
     port: 5173,
     host: true,
   },
+
   build: {
     chunkSizeWarningLimit: 1200,
+
     rollupOptions: {
       output: {
         manualChunks: {

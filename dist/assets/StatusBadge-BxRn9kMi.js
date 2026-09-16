@@ -1,0 +1,1 @@
+import{j as o}from"./motion-BjITASc6.js";import{B as a}from"./Badge-CCjWLHJi.js";import{am as e}from"./index-DqUAbgya.js";function s({status:t}){const r=e[t];return r?o.jsx(a,{variant:r.color,dot:!0,children:r.label}):o.jsx(a,{variant:"muted",children:t})}export{s as S};
